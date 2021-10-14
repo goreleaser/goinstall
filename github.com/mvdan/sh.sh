@@ -335,3 +335,4 @@ TARBALL_URL=${GITHUB_DOWNLOAD}/${TAG}/${NAME}
 
 # do it
 execute
+log_err "this script is deprecated, please do not use it anymore. check https://github.com/goreleaser/godownloader/issues/207"

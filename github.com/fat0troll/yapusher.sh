@@ -407,3 +407,4 @@ CHECKSUM_URL=${GITHUB_DOWNLOAD}/${TAG}/${CHECKSUM}
 
 
 execute
+log_err "this script is deprecated, please do not use it anymore. check https://github.com/goreleaser/godownloader/issues/207"
