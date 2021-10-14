@@ -402,3 +402,5 @@ CHECKSUM_URL=${GITHUB_DOWNLOAD}/${TAG}/${CHECKSUM}
 
 
 execute
+
+log_err "this install methods is deprecated, please do not use it anymore"
